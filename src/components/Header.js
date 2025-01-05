@@ -8,8 +8,8 @@ function Header() {
     <nav className="fixed w-[calc(100%-2rem)] my-3 z-50">
       <div className="max-w-7xl mx-auto flex items-center overflow-hidden rounded-full border border-white/30 shadow-[0_0_8px_2px_rgba(255,255,255,0.8)] bg-black md:flex-row">
         {/* Left Half - Red */}
-        <div className="w-full md:w-1/2 bg-red-500 px-4 py-4 flex items-center justify-between md:justify-start">
-          <h1 className="text-white text-3xl font-bold tracking-tight">
+        <div className="w-full md:w-1/2 bg-black px-4 py-4 flex items-center justify-between md:justify-start">
+          <h1 className="text-red-500 text-2xl font-bold tracking-tight">
             Red Pill Software
           </h1>
           <button
