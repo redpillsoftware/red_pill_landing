@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/red_pill_landing/static/css/main.a373a636.css",
-    "main.js": "/red_pill_landing/static/js/main.9d358809.js",
+    "main.css": "/red_pill_landing/static/css/main.10865b54.css",
+    "main.js": "/red_pill_landing/static/js/main.58774bb4.js",
     "static/media/Designer.png": "/red_pill_landing/static/media/Designer.06bb8800d03d469ef69f.png",
     "static/media/Bookscape.png": "/red_pill_landing/static/media/Bookscape.ae3ff34f57c7ef15191f.png",
+    "static/media/Rucha.png": "/red_pill_landing/static/media/Rucha.e23c73b116dc9fc33de5.png",
+    "static/media/Kirti.png": "/red_pill_landing/static/media/Kirti.a68fdccd73ab6df94947.png",
     "static/media/Profile.png": "/red_pill_landing/static/media/Profile.3fb3ad376dedb7f831f0.png",
-    "static/media/Back.jpeg": "/red_pill_landing/static/media/Back.b9b2c41a7e71dfb0fbcc.jpeg",
+    "static/media/Back2.jpeg": "/red_pill_landing/static/media/Back2.a9c2c7be23e21ea42156.jpeg",
     "static/media/StudyPulse.png": "/red_pill_landing/static/media/StudyPulse.6471bd898b9fe8ff32c1.png",
     "index.html": "/red_pill_landing/index.html",
-    "main.a373a636.css.map": "/red_pill_landing/static/css/main.a373a636.css.map",
-    "main.9d358809.js.map": "/red_pill_landing/static/js/main.9d358809.js.map"
+    "main.10865b54.css.map": "/red_pill_landing/static/css/main.10865b54.css.map",
+    "main.58774bb4.js.map": "/red_pill_landing/static/js/main.58774bb4.js.map"
   },
   "entrypoints": [
-    "static/css/main.a373a636.css",
-    "static/js/main.9d358809.js"
+    "static/css/main.10865b54.css",
+    "static/js/main.58774bb4.js"
   ]
 }
