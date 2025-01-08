@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import Authzen from "../assets/images/Designer.png";
 import StudyPulse from "../assets/images/StudyPulse.png";
 import Bookscape from "../assets/images/Bookscape.png";
-import { image } from "framer-motion/client";
+// import { image } from "framer-motion/client";
 
 function Portfolio() {
   const projects = [

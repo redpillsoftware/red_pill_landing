@@ -47,7 +47,7 @@ function Contact() {
               }}
               className="bg-white/10 backdrop-blur-sm p-6 rounded-xl shadow-lg flex items-center space-x-4"
             >
-              <MapPin className="text-red-500" />
+              <MapPin className="text-red-400" />
               <div>
                 <h3 className="font-bold text-white">Location</h3>
                 <p className="text-gray-300">B3 Radha Krishna Vihar, Pune</p>
@@ -78,7 +78,7 @@ function Contact() {
                 <label className="block text-white mb-2">Message</label>
                 <textarea className="w-full p-3 bg-white/5 border border-gray-700 rounded-lg h-32 focus:ring-2 focus:ring-red-500 focus:border-red-500 text-white"></textarea>
               </div>
-              <button className="w-full bg-red-600 text-white py-3 rounded-lg hover:bg-red-700 transition-colors">
+              <button className="w-full bg-red-500 text-white py-3 rounded-lg hover:bg-red-600 transition-colors">
                 Send Message
               </button>
             </div>

@@ -11,11 +11,11 @@ const Header = () => {
   const menuItems = ["About", "Portfolio", "Services", "Team", "Contact"];
 
   return (
-    <nav className="fixed w-[calc(100%-2rem)] mx-4 my-3 bg-black/80 backdrop-blur-sm z-50 border border-white/50 shadow-[0_0_8px_2px_rgba(255,255,255,0.8)] rounded-none md:rounded-full">
+    <nav className="fixed w-[calc(100%-2rem)] mx-4 my-3 bg-transparent  backdrop-blur-lg z-50 border-2 border-black/50  rounded-none md:rounded-full hover:bg-stone-900 transition-colors duration-300 hover:shadow-[0_0_20px_4px_rgba(239,68,68,0.8)]">
       <div className="max-w-7xl mx-auto px-4 py-4">
         <div className="flex justify-between items-center">
           {/* Logo */}
-          <h1 className="text-red-500 text-2xl font-bold tracking-tight">
+          <h1 className="text-red-400 text-2xl font-bold tracking-tight">
             Red Pill Software
           </h1>
 
